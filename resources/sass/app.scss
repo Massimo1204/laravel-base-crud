@@ -1,1 +1,25 @@
-//
+@import "node_modules/bootstrap/scss/bootstrap";
+
+main{
+    div.my-card-wrapper{
+        div.my-card{
+            height: 670px;
+            div.my-card-body{
+                p.my-card-description{
+                    height: 170px;
+                    overflow-y: scroll;
+                }
+            }
+        }
+    }
+
+    div.my-comic-wrapper{
+        width: 1000px;
+        img.my-comic-img{
+            width: 30%;
+        }
+        div.my-comic-body{
+            width: 60%;
+        }
+    }
+}
