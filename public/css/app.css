@@ -11243,8 +11243,12 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+main div.my-form-wrapper {
+  width: 1000px;
+  margin: auto;
+}
 main div.my-card-wrapper div.my-card {
-  height: 670px;
+  height: 700px;
 }
 main div.my-card-wrapper div.my-card div.my-card-body p.my-card-description {
   height: 170px;

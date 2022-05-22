@@ -1,9 +1,13 @@
 @import "node_modules/bootstrap/scss/bootstrap";
 
 main{
+    div.my-form-wrapper{
+        width: 1000px;
+        margin: auto;
+    }
     div.my-card-wrapper{
         div.my-card{
-            height: 670px;
+            height: 700px;
             div.my-card-body{
                 p.my-card-description{
                     height: 170px;
